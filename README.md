@@ -39,13 +39,11 @@ The SQL console allows the creation of databases, tables, records, queries, etc.
 
 ![proUpdate](https://github.com/jose-ambrosioo/sql_terminal/assets/59221796/647422d2-f506-42a0-8003-34a265ea535e)
 
-![proVis](https://github.com/jose-ambrosioo/sql_terminal/assets/59221796/cf74ba3c-65c9-4c7b-9251-540e205ab637)
-
 ![udapProdu](https://github.com/jose-ambrosioo/sql_terminal/assets/59221796/7e757c4c-5954-4929-ac37-54cd3a249fff)
 
 ![trigeer](https://github.com/jose-ambrosioo/sql_terminal/assets/59221796/fc226251-7cb7-41f2-b25c-f373843d10e2)
 
-
+![udapProdu](https://github.com/jose-ambrosioo/sql_terminal/assets/59221796/9464b1d6-9ca2-419d-9511-3b37dcea81f5)
 
 
 
